@@ -754,7 +754,7 @@ h4 {
     margin-top: 24px;
 }
 
-.black {
+.black, .icon-md {
     color: black!important;
 }
 
