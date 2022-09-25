@@ -11,11 +11,17 @@ body {
     font-size: 18px;
     margin: auto;
     max-width: auto;
+    font-style: italic;
+    font-weight: bold;
 }
 
-.citation>span {
-    font-weight: bold;
-    font-style: italic;
+blockquote {
+    border: none;
+    padding: 0;
+}
+
+cite {
+    font-size: 18px;
 }
 
 a,
